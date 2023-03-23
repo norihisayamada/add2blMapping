@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\kyoto.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\result_add2latlng.csv">
           <value>
             <Attribute>
