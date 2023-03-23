@@ -9,7 +9,7 @@ st.title('国土地理院APIを用いて住所から緯度経度に変換する�
 st.header('住所の緯度経度を地図に表示します')
 
 st.caption('開発環境')
-env = pd.read_csv('enviroment.csv')
+env = pd.read_csv('project/enviroment.csv')
 # st.dataframe(env)
 # 国土地理院API
 GeospatialUrl = "https://msearch.gsi.go.jp/address-search/AddressSearch?q="
